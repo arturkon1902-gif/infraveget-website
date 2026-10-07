@@ -1,22 +1,21 @@
-# InfraVeget Website
-
-## Schnell online stellen
-Die Website besteht aus statischen HTML/CSS/JS-Dateien und benötigt kein eigenes Backend.
-
-1. Alle Dateien dieses Ordners bei Ihrem Hosting hochladen.
-2. `index.html` als Startseite verwenden.
-3. Die Domain beim Domain-/Hosting-Anbieter auf das Hosting zeigen lassen.
-4. Vor Veröffentlichung Impressum und Datenschutzerklärung mit den tatsächlichen Unternehmensangaben ergänzen bzw. rechtlich prüfen.
+# InfraVeget Website – aktualisierte Version
 
 ## Enthalten
-- Responsive Startseite
-- Leistungsübersicht
-- Saisonales Management
-- Qualitätsversprechen
-- Kontaktbereich
-- Impressum-Vorlage
-- Datenschutz-Vorlage
-- Favicon
-- Mobile Navigation
+- neues InfraVeget-Logo aus der bereitgestellten Datei
+- große, aussagekräftige Bilder in Hero-, Leistungs- und Galerie-Bereichen
+- neue E-Mail-Adresse: info@infraveget.de
+- deutlicher Hinweis auf faire und kostengünstige Preise
+- überarbeitete Kontaktstrecke
+- überarbeitetes Impressum mit Steuernummer „wird nachgereicht“
+- professionelle Erklärung zur Nichtteilnahme an Verbraucherschlichtungsverfahren
+- ausführlichere Datenschutzerklärung auf Basis des aktuell bekannten technischen Aufbaus
+- responsive Darstellung und mobile Navigation
 
-Die Inhalte basieren auf dem von Ihnen bereitgestellten Leistungsportfolio.
+## Vor der Veröffentlichung noch prüfen
+1. Im Impressum den vollständigen Namen des Inhabers/Verantwortlichen ergänzen.
+2. Falls vorhanden, Handelsregisterangaben und Umsatzsteuer-ID ergänzen.
+3. Den tatsächlich verwendeten Hosting-Anbieter und dessen Log-Speicherfristen in der Datenschutzerklärung abgleichen.
+4. Die extern geladenen Unsplash-Bilder können bei Bedarf durch lokal gehostete Bilder ersetzt werden.
+
+## Veröffentlichung
+Alle Dateien dieses Ordners auf das verwendete Hosting hochladen und `index.html` als Startseite verwenden.
